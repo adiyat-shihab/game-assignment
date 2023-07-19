@@ -1,6 +1,13 @@
 main {
   padding: 120px 240px;
 }
+.game-list:hover {
+  border: 2px solid #ff42a5;
+  cursor: pointer;
+}
+.game-list:hover p {
+  color: #ff42a5;
+}
 .overlay {
   position: absolute;
   bottom: -524px;
@@ -13,6 +20,7 @@ main {
   border: 6px solid #ff42a5;
   left: 234px;
   text-align: center;
+  cursor: pointer;
 }
 .overlay img,
 .overlay-two img,
@@ -41,6 +49,7 @@ main {
   border: 6px solid #ff42a5;
   left: 599px;
   text-align: center;
+  cursor: pointer;
 }
 .grid-item:hover .overlay-two,
 .grid-item:hover .overlay-three,
@@ -59,6 +68,7 @@ main {
   border: 6px solid #ff42a5;
   left: 964px;
   text-align: center;
+  cursor: pointer;
 }
 .overlay-four {
   position: absolute;
@@ -72,6 +82,7 @@ main {
   border: 6px solid #ff42a5;
   left: 1329px;
   text-align: center;
+  cursor: pointer;
 }
 
 .grid-container {
