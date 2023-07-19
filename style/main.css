@@ -295,19 +295,19 @@ main {
     font-size: 31px;
   }
   .overlay {
-    bottom: -1096px;
+    bottom: -1228px;
     left: 37px;
   }
   .overlay-two {
     left: 37px;
-    bottom: -1581px;
+    bottom: -1715px;
   }
   .overlay-three {
     left: 37px;
-    bottom: -2039px;
+    bottom: -2172px;
   }
   .overlay-four {
     left: 37px;
-    bottom: -2496px;
+    bottom: -2630px;
   }
 }
